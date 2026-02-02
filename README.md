@@ -21,7 +21,7 @@ This repository:
 
 The following names and marks are claimed trademarks of **Metronisys** (unless otherwise stated):
 
-- **Metronisys®**
+- **Metronisys™**
 - **Metronisys Framework™**
 - **Metronisys AI-Augmented Living™**
 - **Metronisys Human-First AI™**
