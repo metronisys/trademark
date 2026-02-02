@@ -23,8 +23,8 @@ The following names and marks are claimed trademarks of **Metronisys** (unless o
 
 - **Metronisys®**
 - **Metronisys Framework™**
-- **AI-Augmented Living™**
-- **Human-First AI™**
+- **Metronisys AI-Augmented Living™**
+- **Metronisys Human-First AI™**
 - **Metronisys Governance Layer™**
 - **Metronisys Grade™** (Prompt & System Classification)
 
