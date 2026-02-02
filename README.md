@@ -1,6 +1,6 @@
-# Metronisys® Trademarks & Brand Assets
+# Metronisys™ Trademarks & Brand Assets
 
-This repository defines and protects the **Metronisys® brand, trademarks, and associated identifiers**.  
+This repository defines and protects the **Metronisys™ brand, trademarks, and associated identifiers**.  
 It exists to ensure **clear, ethical, and lawful use** of Metronisys naming, marks, and brand expressions across software, documentation, research, and public communications.
 
 ---
@@ -80,6 +80,5 @@ Metronisys is **open for evaluation** but **licensed for production use**.
 
 When referencing Metronisys, use clear attribution:
 
-> “Metronisys® is an AI-Augmented Living framework focused on ethical human-AI collaboration.”
+> “Metronisys™ is an AI-Augmented Living framework focused on ethical human-AI collaboration.”
 
-Do not
